@@ -1,0 +1,60 @@
+@media (min-width:1200px){
+    .profile{
+        margin-bottom: 40px;
+        margin-top: 12px;
+    }
+}
+
+@media (max-width:375px){
+    .profile{
+        margin-bottom: 17px;
+        margin-top: 18px;
+    }
+}
+
+
+@media (min-width:1200px){
+    .container-profile__pic{
+        margin-left: 130px;
+        margin-bottom: -121px;
+    }
+}
+
+@media (max-width:375px){
+    .container-profile__pic{
+        margin-left: 57px;
+        margin-bottom: -121px;
+    }
+}
+@media (min-width:1200px){
+    .profile__pic__yuki{
+        width: 100px;
+        border-radius: 50%;
+    }
+}
+
+
+@media (max-width:375px){
+
+    .profile__pic__yuki{
+     width: 100px;
+    border-radius: 50%;
+    }
+}
+    
+
+ @media (min-width:1200px){
+    .profile__yuki__follow{
+        margin-left: 241px;
+        margin-top: 22px;
+    }
+ }
+
+@media (max-width:375px){
+
+    .profile__yuki__follow{
+        margin-left: 163px;
+        margin-top: 51px;
+    }
+}
+

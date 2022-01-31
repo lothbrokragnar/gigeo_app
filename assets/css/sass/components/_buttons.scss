@@ -1,0 +1,32 @@
+
+@media (min-width:1200px){
+    .profile__yuki__buttons{
+        position: relative;
+        margin-left: 968px;
+        top: 58px;
+}
+    }
+
+
+@media (max-width:375px){
+    .profile__yuki__buttons{
+        display: none;
+    }
+}
+
+.button1{
+    margin-right: 10px;
+    padding: 10px;
+    font-family: $Lato;
+    background-color: $blue-sky;
+    color: $white;
+}
+
+.button2{
+    padding-left: 25px;
+    padding-right: 25px;
+    height: 41px;
+    font-family: $Lato;
+    background-color: $fuzzy-wuzzy;
+    color: $white;
+}
